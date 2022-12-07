@@ -1,0 +1,118 @@
+header {
+    background-color: #ffdd00b2;
+    text-align: center;
+    font-size: 1.28rem;
+    padding: 1px;
+    height: 135px;
+}
+p{
+    text-align: justify;
+}
+
+header a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+header a:hover {
+    background-color:#467302;
+    padding: 1px;
+}
+
+header a:visited {
+    color: #1f2b0d;
+}
+
+a{
+    color: black;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    margin-left: 200px;
+    word-wrap: break-word;
+    max-width: 1100px;
+    
+}
+
+a:hover {
+    color:whitesmoke;
+    background-color:black;
+    padding: 1px;
+}
+
+h2 {
+    font-size: 1.90rem;
+}
+
+p {
+    font-size: 17px;
+}
+
+aside {
+    position: absolute;
+    width: 300px;
+    top: 165px; 
+    right: 20px;
+    background: #f2f2f2;
+    font-size: 0.9rem;
+    padding: 5px;
+    border-bottom: 2px dotted #000;
+    border-radius: 5px;
+}
+
+aside h3 {
+    color: #142615;
+    background: #fffc50;
+    padding: 5px;
+}
+
+aside h4 {
+    background: #29bcf7;
+}
+
+img {
+    border-radius: 5px;
+}
+
+#ativo{
+    color: #0026ff;
+}
+main h2{
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif; 
+    font-size: 30px; 
+    font-style: bold; 
+    font-variant: normal; 
+    font-weight: 750; 
+    line-height: 26.4px; 
+}
+
+main p {
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
+    font-size: 25px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 3500; 
+    line-height: 20px; 
+}
+
+#rodape{
+    text-align: center;
+}
+
+#imagens{
+    border: black 2px solid;
+}
+
+#linha{
+    border: solid 1px;
+}
